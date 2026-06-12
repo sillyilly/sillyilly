@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sillyilly
-- 👀 I’m interested in Lego 
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on creating a safe platform to help kids get intorduced to social media.
-- 📫 How to reach me? Just give me a shout at https://twitter.com/iljavinzenz
+- 👀 I’m interested in Lego
 
 <!---
 sillyilly/sillyilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
